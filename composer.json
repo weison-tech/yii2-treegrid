@@ -1,12 +1,12 @@
 {
-    "name": "leandrogehlen/yii2-treegrid",
+    "name": "weison-tech/yii2-treegrid",
     "description": "Extension for Yii2 Framework to work with jQuery TreeGrid",
     "keywords": ["yii2", "tree", "treeview", "treegrid", "interface"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/leandrogehlen/yii2-treegrid/issues",
-        "source": "https://github.com/leandrogehlen/yii2-treegrid"
+        "issues": "https://github.com/weison-tech/yii2-treegrid/issues",
+        "source": "https://github.com/weison-tech/yii2-treegrid"
     },
     "authors": [
         {
